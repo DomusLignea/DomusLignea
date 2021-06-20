@@ -28,7 +28,7 @@
 
 
 	$('#book').click(function() {
-		window.open("https://www.booking.com/hotel/it/casa-vacanza-katina.it.html","_blank");
+		window.open("https://www.booking.com/hotel/it/casa-vacanza-domus-lignea.it.html","_blank");
 	});
 
 	$('#air').click(function() {
