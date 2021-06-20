@@ -32,7 +32,7 @@
 	});
 
 	$('#air').click(function() {
-		window.open("https://airbnb.com/h/casa-vacanza-al-centro-di-catania","_blank");
+		window.open("https://airbnb.com/h/casa-vacanza-in-centro-a-catania","_blank");
 	});
 
 	var	$window = $(window),
